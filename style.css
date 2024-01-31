@@ -1,0 +1,141 @@
+@font-face{font-family: ALK Life;
+src : url(alk_life.otf);}
+@font-face{font-family: DejaVu Sans;
+    src : url(dejavu-sans.ttf);}
+ul, ol{
+    list-style-type: none;
+    font-family: ALK Life;
+font-size: 24px;
+font-weight: 400;
+line-height: 30px;
+letter-spacing: 0em;
+text-align: left;
+}
+.logo-item{
+    margin-left: 130px;
+}
+a{
+    text-decoration: none;
+}
+
+.nav-item{
+display: inline;
+font-family: ALK Life;
+font-size: 24px;
+font-weight: 400;
+line-height: 30px;
+color: #717276;
+margin-left: 38px;
+
+}
+.main-nav{
+display: flex;
+margin-left: 249px;
+}
+
+.main-header{
+    display: flex;
+    justify-content: baseline;
+    width: 1440px;
+    height: 200px;
+    background: #D9D9D9;
+}
+.main-image{
+    width: 1180px;
+height: 287px;
+margin-top: 160px;
+margin-left: 130px;
+
+}
+p{
+    display: inline;
+    font-family: DejaVu Sans;
+font-size: 32px;
+font-weight: 700;
+line-height: 51px;
+letter-spacing: 0em;
+text-align: left;
+margin-left: 40px;
+
+}
+.women-section{
+    display: flex;
+margin-top: 160px;
+margin-left: 130px;
+}
+span{
+    display: block;
+}
+.book-author{
+    font-family: DejaVu Sans;
+font-size: 24px;
+font-weight: 700;
+line-height: 39px;
+letter-spacing: 0em;
+text-align: left;
+color: #717276;
+
+}
+.book-title{
+    font-family: ALK Life;
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 30px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #000000;
+}
+.book-price{
+    font-family: DejaVu Sans;
+font-size: 24px;
+font-weight: 700;
+line-height: 39px;
+letter-spacing: 0em;
+text-align: left;
+color: #000000;
+}
+.book1, .book2, .book3{
+    display: inline;
+    margin-left: 20px;
+}
+.book-collection{
+    display: flex;
+    margin-left: 130px;
+    margin-top: 40px;
+}
+
+.weekly-authors{
+    display: flex;
+    margin-top: 160px;
+    margin-left: 130px;
+}
+.author-collection{
+    display: flex;
+    margin-left: 130px;
+    margin-top: 40px;
+}
+.author-pic{
+    margin-left: 20px;
+}
+.main-footer{
+display: flex;
+justify-content:baseline;
+width: 1440px;
+height: 248px;
+margin-top:160px;
+background-color: #D9D9D9;
+}
+.footer-text{
+width: 174px;
+height: 106px;
+margin-top: 71px;
+margin-left: 130px;
+}
+.footer-icons{
+    display: inline;
+    width: 30px;
+height: 30px;
+margin-top: 71px;
+margin-left: 823px;
+}
+
